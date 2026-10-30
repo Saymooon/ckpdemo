@@ -1,0 +1,272 @@
+[
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 13806.66666666667,
+    "delivery_fraction": 0.8571428571428571,
+    "expected_defects": 4360.0,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666674
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 5522.666666666665,
+    "delivery_fraction": 0.9428571428571428,
+    "expected_defects": 4796.0,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666674
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 5086.666666666667,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666674
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 12716.666666666653,
+    "delivery_fraction": 0.8684210526315791,
+    "expected_defects": 3270.0,
+    "minimum_extra_capacity_for_full_delivery": 0.15151515151515138
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 4323.666666666659,
+    "delivery_fraction": 0.9552631578947369,
+    "expected_defects": 3597.0,
+    "minimum_extra_capacity_for_full_delivery": 0.15151515151515138
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 3765.454545454545,
+    "minimum_extra_capacity_for_full_delivery": 0.15151515151515138
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 11626.666666666664,
+    "delivery_fraction": 0.8796992481203008,
+    "expected_defects": 2180.0,
+    "minimum_extra_capacity_for_full_delivery": 0.1367521367521367
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 3124.6666666666647,
+    "delivery_fraction": 0.9676691729323308,
+    "expected_defects": 2398.0,
+    "minimum_extra_capacity_for_full_delivery": 0.1367521367521367
+  },
+  {
+    "baseline_defect_rate": 0.05,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 96646.66666666666,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 2478.119658119658,
+    "minimum_extra_capacity_for_full_delivery": 0.1367521367521367
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 6539.999999999996,
+    "delivery_fraction": 0.8571428571428572,
+    "expected_defects": 4360.0,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666652
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 2616.0000000000023,
+    "delivery_fraction": 0.9428571428571428,
+    "expected_defects": 4796.0,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666652
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 5086.666666666667,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666652
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 5449.999999999993,
+    "delivery_fraction": 0.8809523809523812,
+    "expected_defects": 3270.0,
+    "minimum_extra_capacity_for_full_delivery": 0.13513513513513487
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 1417.0000000000018,
+    "delivery_fraction": 0.969047619047619,
+    "expected_defects": 3596.999999999999,
+    "minimum_extra_capacity_for_full_delivery": 0.13513513513513487
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 3711.8918918918916,
+    "minimum_extra_capacity_for_full_delivery": 0.13513513513513487
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 4360.000000000004,
+    "delivery_fraction": 0.9047619047619047,
+    "expected_defects": 2180.0,
+    "minimum_extra_capacity_for_full_delivery": 0.10526315789473695
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 218.00000000000182,
+    "delivery_fraction": 0.9952380952380951,
+    "expected_defects": 2398.0,
+    "minimum_extra_capacity_for_full_delivery": 0.10526315789473695
+  },
+  {
+    "baseline_defect_rate": 0.1,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 45780.0,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 2409.4736842105267,
+    "minimum_extra_capacity_for_full_delivery": 0.10526315789473695
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 2906.666666666666,
+    "delivery_fraction": 0.8571428571428572,
+    "expected_defects": 4360.0,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666652
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 1162.6666666666677,
+    "delivery_fraction": 0.9428571428571428,
+    "expected_defects": 4796.0,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666652
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.0,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 5086.666666666667,
+    "minimum_extra_capacity_for_full_delivery": 0.16666666666666652
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 1816.66666666667,
+    "delivery_fraction": 0.9107142857142856,
+    "expected_defects": 3270.0,
+    "minimum_extra_capacity_for_full_delivery": 0.0980392156862746
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 3590.588235294118,
+    "minimum_extra_capacity_for_full_delivery": 0.0980392156862746
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.25,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 3590.588235294118,
+    "minimum_extra_capacity_for_full_delivery": 0.0980392156862746
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.0,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 726.6666666666672,
+    "delivery_fraction": 0.9642857142857143,
+    "expected_defects": 2180.0,
+    "minimum_extra_capacity_for_full_delivery": 0.03703703703703698
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.1,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 2260.740740740741,
+    "minimum_extra_capacity_for_full_delivery": 0.03703703703703698
+  },
+  {
+    "baseline_defect_rate": 0.2,
+    "relative_defect_reduction": 0.5,
+    "max_extra_capacity": 0.2,
+    "modeled_target_good_ea": 20346.66666666667,
+    "modeled_shortage_good_ea": 0.0,
+    "delivery_fraction": 1.0,
+    "expected_defects": 2260.740740740741,
+    "minimum_extra_capacity_for_full_delivery": 0.03703703703703698
+  }
+]
